@@ -1,9 +1,7 @@
 .Menu {
-  display: inline;
-}
-
-.Logo {
-  display: inline;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 358px 0 358px;
 }
 
 .Menu ul {
