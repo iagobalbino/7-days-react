@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './assinaturaNewsletter.css';
+import './AssinaturaNewsletter.css';
 
 export default function AssinaturaNewsletter() {
   return (
